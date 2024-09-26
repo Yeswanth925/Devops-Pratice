@@ -1,11 +1,25 @@
 #!/bin/bash
 
 
-NUMBER = $10
 
-if ($NUMBER -gt 100) 
+
+
+
+NUMBER=$1
+
+if [ $NUMBER -gt 100 ]
 then
-{echo "Above 100"}
+   echo "Give number $NUMBER is greater than 100"
 else
-{echo "Below 100"}
+   echo "Give number $NUMBER is not greater than 100"
 fi
+
+
+
+
+
+
+
+
+
+
