@@ -1,4 +1,9 @@
 #!/bin/bash
 
-echo "yeswanth : Hi raa , swaroop"
-echo "swaroop  : chepu ra "
+x=Charan
+y=Hari
+
+
+
+echo "$x : Hi raa , swaroop"
+echo "$y  : chepu ra "
