@@ -1,7 +1,7 @@
 #!/bin/bash
 
-x=Charan
-y=Hari
+x=Jayanth
+y=Anil
 
 
 
