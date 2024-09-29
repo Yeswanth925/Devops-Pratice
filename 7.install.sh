@@ -12,4 +12,6 @@ else
     
 fi
 
-yum install MySQL -y
+yum install mysql -y
+
+
