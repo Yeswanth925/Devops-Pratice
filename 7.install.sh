@@ -7,7 +7,7 @@ then
     {
         echo "error: please go with the root user"
     }
-    EXIT
+    exit 1
 else
     {
         echo "good to proceed"
