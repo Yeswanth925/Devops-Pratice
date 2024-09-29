@@ -12,6 +12,6 @@ else
     
 fi
 
-apt install mysql -y 
+yum install mysql -y 
 
 
